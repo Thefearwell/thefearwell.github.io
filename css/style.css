@@ -1,0 +1,19 @@
+*{
+   margin:0px;
+   padding:0px;
+   border:0px;
+   outline:0;
+   
+}
+body{
+	background:#426698;
+	margin:0 auto;
+    background-image:url(../images/sait.jpg) repeat-x
+}
+#header{
+	height:47px;
+}
+#head-line{
+	height:47px;
+	background:url(../images/head-line.jpg) repeat-x;
+}
